@@ -1,0 +1,1 @@
+{__hair-color__,|} __hairstyle__ {, __hair-trait__|} {, __hair-accessory__|} {, __bangs__|} {, sidelocks|} {, hair intakes|||}

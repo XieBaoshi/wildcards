@@ -1,0 +1,5 @@
+{brunette,|} {light|dark|} brown hair
+{brunette,|} black hair
+{platinum|} blonde hair
+{white|silver|grey} hair
+__color__ hair

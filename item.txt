@@ -1,0 +1,8 @@
+gun
+sword {, jian|, katana||}
+staff
+book
+wine glass
+can
+fan
+drink, cocktail glass

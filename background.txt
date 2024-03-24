@@ -1,0 +1,3 @@
+__outdoors__ {, horizon||} {, cumulonimbus cloud|||} {, outdoors, scenery|} {__props__,|||}
+__indoors__ {, indoors|}} {, backlighting|||}
+simple background{, white background|, gradient background|}

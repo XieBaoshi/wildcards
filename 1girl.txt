@@ -1,0 +1,1 @@
+__hair-overall__, {__eyes-color__,|} {__eyes-trait__,||} __attire__, {__eyewear__,|||} arched back, __pose-bottom__, __pose-top__, __expression__, {__mouth__,||} {half-closed eyes,||} {v-shaped eyebrows,||||} 1girl, solo {, __body__|}

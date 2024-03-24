@@ -1,0 +1,5 @@
+bedroom
+hallway
+cave {stalactite|} {, stalagmite|} {, dark|}
+stone floor, brick wall, pillar {, stairs|}
+{wooden floor|tile floor|stone floor|checkered floor|reflective floor}, chandellier, candle, carpet, window, curtains {, tablecloth|} {, columns|} {, vase|}

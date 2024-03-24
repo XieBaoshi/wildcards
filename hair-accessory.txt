@@ -1,0 +1,6 @@
+hairclip
+hair bow
+hair tie
+hairband
+scrunchie
+{gem|} circlet

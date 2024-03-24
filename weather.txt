@@ -1,0 +1,4 @@
+rain
+storm, rain {, dark clouds||} {, grey sky||||} {, thunder|||||} {, lightning||||||} {, tornado|||||}
+snowing {winter||}
+dust {cloud|}

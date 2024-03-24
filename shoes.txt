@@ -1,0 +1,7 @@
+high heels {, platform heels|, strappy heels|, wedge heels||} {, shiny footwear|, transparent footwear|||}
+high heel boots {, platform footwear|||} {, shiny footwear|||}
+pumps, high heels
+stiletto heels
+mary janes
+sneakers
+loafers

@@ -1,0 +1,11 @@
+forest {, grass|} {, bush|} {, road||}
+balcony
+street, road {, grass|} {, tree|}
+alley
+meadow {, grass|} {, tree|}
+garden {, grass|} {, tree|}
+ruins {, grass|} {, tree|}
+power lines, utility pole
+ocean
+beach
+lake, reflective water

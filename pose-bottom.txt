@@ -1,0 +1,9 @@
+yokozuwari {, arm support|}
+standing {, crossed legs|, legs apart|} {, contrapposto|}
+sitting {on __sitting-on__|} {, crossed legs|} {, arm support|}
+kneeling
+squatting
+lying, knee up, sitting, arm support
+on stairs, hand on railing {, walking|}
+floating
+leaning back
